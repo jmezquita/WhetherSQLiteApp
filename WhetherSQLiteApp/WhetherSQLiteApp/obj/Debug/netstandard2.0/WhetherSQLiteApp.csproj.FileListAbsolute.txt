@@ -1,0 +1,13 @@
+C:\GitHub\XamarinForms\WhetherSQLiteApp\WhetherSQLiteApp\WhetherSQLiteApp\bin\Debug\netstandard2.0\WhetherSQLiteApp.deps.json
+C:\GitHub\XamarinForms\WhetherSQLiteApp\WhetherSQLiteApp\WhetherSQLiteApp\bin\Debug\netstandard2.0\WhetherSQLiteApp.dll
+C:\GitHub\XamarinForms\WhetherSQLiteApp\WhetherSQLiteApp\WhetherSQLiteApp\bin\Debug\netstandard2.0\WhetherSQLiteApp.pdb
+C:\GitHub\XamarinForms\WhetherSQLiteApp\WhetherSQLiteApp\WhetherSQLiteApp\obj\Debug\netstandard2.0\WhetherSQLiteApp.csprojAssemblyReference.cache
+C:\GitHub\XamarinForms\WhetherSQLiteApp\WhetherSQLiteApp\WhetherSQLiteApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\XamarinForms\WhetherSQLiteApp\WhetherSQLiteApp\WhetherSQLiteApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\GitHub\XamarinForms\WhetherSQLiteApp\WhetherSQLiteApp\WhetherSQLiteApp\obj\Debug\netstandard2.0\Views\MasterContentPage.xaml.g.cs
+C:\GitHub\XamarinForms\WhetherSQLiteApp\WhetherSQLiteApp\WhetherSQLiteApp\obj\Debug\netstandard2.0\WhetherSQLiteApp.csproj.CoreCompileInputs.cache
+C:\GitHub\XamarinForms\WhetherSQLiteApp\WhetherSQLiteApp\WhetherSQLiteApp\obj\Debug\netstandard2.0\WhetherSQLiteApp.AssemblyInfoInputs.cache
+C:\GitHub\XamarinForms\WhetherSQLiteApp\WhetherSQLiteApp\WhetherSQLiteApp\obj\Debug\netstandard2.0\WhetherSQLiteApp.AssemblyInfo.cs
+C:\GitHub\XamarinForms\WhetherSQLiteApp\WhetherSQLiteApp\WhetherSQLiteApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\XamarinForms\WhetherSQLiteApp\WhetherSQLiteApp\WhetherSQLiteApp\obj\Debug\netstandard2.0\WhetherSQLiteApp.dll
+C:\GitHub\XamarinForms\WhetherSQLiteApp\WhetherSQLiteApp\WhetherSQLiteApp\obj\Debug\netstandard2.0\WhetherSQLiteApp.pdb
